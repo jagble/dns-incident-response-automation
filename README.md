@@ -4,7 +4,6 @@ Python automation that responds to a DNS compromise on an enterprise network, th
 
 Built and tested in a 16-device GNS3 lab network (Ubuntu servers and PCs, a VyOS router/firewall, Open vSwitch switches, BIND9 DNS, a helpdesk ticketing API and an SMTP server).
 
-> **Context:** this was the final course of my B.S. in Information Technology at WGU (D522, Python for IT Automation). The network, devices and email addresses belong to the course lab environment.
 
 ## The scenario
 
